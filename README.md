@@ -3,10 +3,15 @@ BASIC METEOR APP LAYOUT:
 This repository allows for a quick, simple set-up of a meteor application. It includes all of the necessary folders and simple files for structuring a beginning or advanced meteor app. 
 
 Folders and Contents:
+
 Client --> .js, .html, .css
+
 Server --> .js
+
 Lib --> .js
+
 Public --> empty
+
 Private --> empty
 
 A simple description of this files and their usage are included in comments section of the files. Also see  http://docs.meteor.com/#structuringyourapp
