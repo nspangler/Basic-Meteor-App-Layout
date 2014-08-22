@@ -1,0 +1,4 @@
+////////////////////////////////////////////////////
+/// Server Side Java Script
+///
+/// Declare Meteor startup and Meteor methods here
